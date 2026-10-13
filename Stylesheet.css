@@ -1,6 +1,21 @@
 h1 {
-    color: hotpink;
+    color: cornflowerblue;
+}
+h2 {
+    color: rosybrown;
 }
 body {
     font-family: sans-serif;
+}
+p {
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+p:hover {
+    color: white;
+    //background-color: darkorchid;
 }
